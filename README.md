@@ -3,14 +3,4 @@ lightnode93 is an ongoing ecosystem improvement project utilizing multiple netwo
 
 > What's your lightnode?
 
-## Ethereum
 
-## SpankChain
-
-## Colony
-
-## OpenBazaar
-
-## Bitcoin
-
-## Zcash
